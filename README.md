@@ -3,6 +3,7 @@
 
 
 #Spec Equation for july 17th
+
 jul17_reflect = pd.read_csv("F:/Thesis/Thesis-Excel-Files/7-17/7-17-reflect.csv")
 #data17 = pd.read_csv("F:/Thesis/Thesis-Excel-Files/7-17/7-17-surface.csv")
 
